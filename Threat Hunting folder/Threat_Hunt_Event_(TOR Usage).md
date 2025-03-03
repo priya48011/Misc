@@ -6,10 +6,9 @@
 2. Install it silently: ```tor-browser-windows-x86_64-portable-14.0.1.exe /S```
 3. Opens the TOR browser from the folder on the desktop
 4. Connect to TOR and browse a few sites.
-   - Current Dread Forum: ```dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/```
-   - 
+   - Current Dread Forum:```dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion```
    - Dark Markets Forum: ```g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/DarkNetMarkets```
-   - Current Elysium Market: ```http://elysurnkmbk2c2zumrfsnfz7njyyakbh2zfqdq3v3uatqtr65xmptfqd.onion/```
+   - Current Elysium Market: ```elysurnkmbk2c2zumrfsnfz7njyyakbh2zfqdq3v3uatqtr65xmptfqd.onion```
 6. Create a folder on your desktop called ```tor-shopping-list.txt``` and put a few fake (illicit) items in there
 7. Delete the file.
 
